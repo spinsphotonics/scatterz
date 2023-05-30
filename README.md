@@ -1,2 +1,4 @@
-# scatterz
-Inverse design framework built on fdtd-z for scattering problems
+# Photonic simulation and optimization framework
+
+[scatterz](https://github.com/spinsphotonics/scatterz) is a simple framework built on [utilz](https://github.com/spinsphotonics/utilz) and [fdtd-z](https://github.com/spinsphotonics/fdtdz)
+for computing the scattering-matrix (S-matrix) values of a photonic device and performing optimization on them.
